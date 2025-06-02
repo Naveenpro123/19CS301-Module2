@@ -1,8 +1,8 @@
 # 19CS301-Module2   
-- **Name:** Subashree A  
-- **Registration Number:** 212222020029
+- **Name:** Naveen P 
+- **Registration Number:** 212222050039
 
-Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS
+# Exp.No:2(a)	ITERATIVE STATEMENTS- PRINTING N NATURAL NUMBERS
 ### AIM
 To create a python program for printing n natural numbers.
 ### ALGORITHM
